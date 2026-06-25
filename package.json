@@ -1,0 +1,23 @@
+{
+  "name": "qaautonmatizationlab",
+  "version": "1.0.0",
+  "description": "This proyect is for my personal presentation of what can I do.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moongomz/QAAutonmatizationLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Moongomz/QAAutonmatizationLab/issues"
+  },
+  "homepage": "https://github.com/Moongomz/QAAutonmatizationLab#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
